@@ -12,3 +12,7 @@ I made a Blinker project in the shape of Wall-E as part of the Blueprint Program
 # 3D View
 
 <img width="583" height="298" alt="image" src="https://github.com/user-attachments/assets/097a15aa-b951-46b7-8a73-0c9c2b77b69f" />
+
+# CASE ASSEMBLY
+
+<img width="1033" height="597" alt="image" src="https://github.com/user-attachments/assets/a8bc7aaa-26d8-422a-9c47-a7cd880c186c" />
